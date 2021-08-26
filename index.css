@@ -1,0 +1,62 @@
+/*Original Code*/
+.container {
+
+}
+
+.card {
+
+}
+
+p.date {
+
+}
+
+h3 {
+
+}
+
+/*My Solution*/
+.container {
+    padding: 1em;
+}
+
+.card {
+    padding: 1em;
+    background: white;
+    color: black;
+    line-height: 1.75em;
+}
+
+p.date {
+    
+}
+
+h3 {
+    text-align: left;
+    margin: 0;
+    
+}
+
+/*Instructor Code*/
+.container {
+    width: 90%;
+}
+
+.card {
+    background: #2C3031;
+    padding: 1.5em;
+}
+
+p.date {
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: .1em;
+    color: #7A8587;
+    margin-bottom: .4em;
+}
+
+h3 {
+    margin: 0 0 .3em;
+    color: #B6EAFF;
+    font-size: 1.8em;
+}
